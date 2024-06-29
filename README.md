@@ -6,7 +6,7 @@ The purpose of this repo is to demonstrate my Python development skills through 
 
 ## Demo:
 
-In this [YouTube link](#), I show how my project works.
+In this [YouTube link](https://youtu.be/PpNS5vbUkyI), I show how my project works.
 
 ## Usage
 
