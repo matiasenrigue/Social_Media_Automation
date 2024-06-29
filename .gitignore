@@ -1,0 +1,41 @@
+# Influencers Folders: Kept private
+PrAnimales/
+PrFilosofia/
+PrEngPhilosophy/
+
+# Other parts of the code kept private to ensure my video style is not repliacted
+Logic/Videos/Video_Recording.py
+Logic/Videos/Thumbnails_Shorts.py
+
+
+# Data Folders (music and fonts)
+data/
+
+# Logs
+cron.log
+error.log
+output.log
+
+# Other Private Folders
+SocialMedia.egg-info/
+z_Notebooks/
+z_Hidden_Folders/
+
+# Environment Keys
+.env
+.envrc
+
+# Mac bug with Chron Jobs
+/activate/
+google-chrome-stable_current_amd64.deb
+
+
+# Other files
+.DS_Store
+__pycache__/
+
+
+
+
+
+

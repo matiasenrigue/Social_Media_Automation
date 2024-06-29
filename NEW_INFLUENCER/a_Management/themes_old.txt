@@ -1,0 +1,91 @@
+- Heraclito: La unidad de los opuestos y el camino hacia la armonía / Antiguos
+- Michel Foucault: El poder, el conocimiento y la construcción social de la realidad / Modernos
+- Epicuro: La búsqueda de la felicidad a través de la ausencia de dolor y el placer moderado. / Antiguos
+- Heráclito: El cambio constante y el fluir de la vida como la realidad fundamental. / Antiguos
+- Thomas Hobbes: El contrato social y la necesidad de un poder soberano / Modernos
+- Jean-Paul Sartre: El existencialismo y la libertad del individuo / Modernos
+- Platón: La dialéctica platónica y su método de búsqueda de la verdad / Antiguos
+- Confucio: La justicia y la moralidad en el pensamiento confuciano / Antiguos
+- Hipatia de Alejandría: La influencia de Hipatia en la filosofía neoplatónica / Antiguos
+- Zeno de Elea: La filosofía de Zeno y su desafío a la noción de movimiento / Antiguos
+- Diógenes de Sinope: La crítica de Diógenes al materialismo y la vanidad / Antiguos
+- Epicuro: La tranquilidad del alma en la filosofía de Epicuro / Antiguos
+- Sócrates: El juicio de Sócrates y su legado en la libertad de expresión / Antiguos
+- Aristóteles: La ética nicomaquea y la búsqueda de la felicidad / Antiguos
+- Platón: La teoría de las ideas de Platón y su influencia en la metafísica / Antiguos
+- Confucio: El respeto por los mayores y la tradición en la enseñanza de Confucio / Antiguos
+- Hipatia de Alejandría: La matemática y la filosofía en la vida de Hipatia / Antiguos
+- Zeno de Elea: Explorando las paradojas de Zenón en la vida cotidiana / Antiguos
+- Diógenes de Sinope: Diógenes y Alejandro Magno: Un encuentro filosófico / Antiguos
+- Epicuro: La simplicidad de la vida según Epicuro y su rechazo al consumismo / Antiguos
+- Sócrates: La condena de Sócrates: ¿Por qué fue sentenciado a muerte? / Antiguos
+- Aristóteles: La política de Aristóteles y su visión de la ciudad-estado ideal / Antiguos
+- Platón: El amor platónico: ¿Qué significa realmente? / Antiguos
+- Confucio: La filosofía de Confucio y su impacto en la cultura oriental / Antiguos
+- Hipatia de Alejandría: La sabiduría de Hipatia y su legado en la filosofía y la astronomía / Antiguos
+- Zeno de Elea: La influencia de las paradojas de Zenón en la filosofía y la ciencia / Antiguos
+- Diógenes de Sinope: La anécdota de Diógenes y la lámpara: buscando un hombre honesto / Antiguos
+- Epicuro: La amistad según Epicuro: un pilar para una vida feliz / Antiguos
+- Aristóteles: La lógica de Aristóteles y su influencia en el pensamiento occidental / Antiguos
+- Platón: La República de Platón y la idea de una sociedad justa / Antiguos
+- Sócrates: El enigma de Sócrates: ¿Cómo sabemos lo que sabemos de él? / Antiguos
+- Giordano Bruno: El filósofo que desafió la visión del universo / Modernos
+- Simone de Beauvoir: ¿Qué significa ser mujer? / Modernos
+- Thomas Kuhn: ¿Cómo cambian las ciencias? / Modernos
+- Blaise Pascal: ¿Vale la pena creer en Dios? La apuesta de Pascal / Modernos
+- Jean-Jacques Rousseau: ¿Nacemos buenos o malos? / Modernos
+- Voltaire: La sátira y el humor como armas filosóficas / Modernos
+- Confucio: ¿Qué significa vivir una vida ética? / Antiguos
+- Hipatia de Alejandría: La trágica historia de la filósofa y matemática / Antiguos
+- Zeno de Elea: ¿Puede Aquiles alcanzar a la tortuga? La paradoja de Zenón / Antiguos
+- Epicuro: Cómo vivir una vida feliz según Epicuro / Antiguos
+- Aristóteles: ¿Por qué la felicidad es el fin último de la vida? / Antiguos
+- Platón: El mito del amor y la búsqueda de nuestra "media naranja" / Antiguos
+- Sócrates: La ironía socrática y el arte de fingir ignorancia / Antiguos
+- Diógenes de Sinope: Vivir como un perro para ser feliz / Antiguos
+- Epicuro: El hedonismo racional y la superación del miedo a la muerte / Antiguos
+- Hannah Arendt: La condición humana y la vida activa / Modernos
+- Peter Singer: La ética práctica y la defensa de los derechos de los animales / Modernos
+- Giordano Bruno: La infinitud del universo y el conflicto con la iglesia católica / Modernos
+- Thomas Kuhn: La estructura de las revoluciones científicas y el cambio de paradigmas / Modernos
+- Voltaire: La crítica a la iglesia y la defensa de la libertad de expresión / Modernos
+- Simone de Beauvoir: El existencialismo feminista y la ética de la ambigüedad / Modernos
+- Blaise Pascal: La apuesta de Pascal y la fe como una opción racional / Modernos
+- Jean-Jacques Rousseau: El buen salvaje y la crítica a la civilización / Modernos
+- George Berkeley: El idealismo subjetivo y la existencia de las cosas solo cuando son percibidas / Modernos
+- Hipatia de Alejandría: La primera mujer matemática y filósofa de la historia / Antiguos
+- Confucio: La importancia de la ética y los rituales en la sociedad / Antiguos
+- Søren Kierkegaard: El existencialismo cristiano y el salto de fe / Modernos
+- Ludwig Wittgenstein: El giro lingüístico y los límites del lenguaje / Modernos
+- Arthur Schopenhauer: El pesimismo filosófico y la voluntad como esencia del mundo / Modernos
+- David Hume: El escepticismo empírico y la crítica a la causalidad / Modernos
+- Baruch Spinoza: El panteísmo y la identidad entre Dios y la naturaleza / Modernos
+- Santo Tomás de Aquino: La síntesis de la fe y la razón en la filosofía medieval / Modernos
+- Platón: La alegoría de la cueva y la teoría de las formas / Antiguos
+- Aristóteles: La ética de la virtud y el concepto de "eudaimonia" / Antiguos
+- Santo Tomás de Aquino: La síntesis de la fe y la razón en la filosofía escolástica / Modernos
+- Simone de Beauvoir: El existencialismo y el feminismo / Modernos
+- Martin Heidegger: La pregunta por el ser y la autenticidad de la existencia / Modernos
+- Ludwig Wittgenstein: Los límites del lenguaje y los límites del mundo / Modernos
+- Arthur Schopenhauer: El pesimismo y la voluntad como esencia de la realidad / Modernos
+- Georg Wilhelm Friedrich Hegel: La dialéctica y la evolución de la historia / Modernos
+- Jean-Jacques Rousseau: El estado de naturaleza y la corrupción de la sociedad / Modernos
+- David Hume: El escepticismo sobre la causalidad y la percepción humana / Modernos
+- Baruch Spinoza: Dios y la naturaleza como una sola entidad / Modernos
+- John Locke: El derecho a la vida, la libertad y la propiedad / Modernos
+- Søren Kierkegaard: El salto de fe y la angustia existencial / Modernos
+- Aristóteles: La ética de la virtud y el concepto del "hombre medio" / Antiguos
+- Platón: La alegoría de la cueva y la teoría de las formas / Antiguos
+- Zeno de Elea: Las paradojas de movimiento y la lógica / Antiguos
+- Jacques Derrida: La deconstrucción y la crítica de la metafísica occidental / Modernos
+- Michel Foucault: Las relaciones entre poder, conocimiento y discurso / Modernos
+- Hannah Arendt: La banalidad del mal y la reflexión sobre la acción política / Modernos
+- Diógenes de Sinope: El cinismo y la vida en conformidad con la naturaleza / Antiguos
+- Epicuro: La búsqueda de la felicidad a través de la ataraxia y la amistad / Antiguos
+- John Stuart Mill: El utilitarismo y la búsqueda del mayor bienestar para el mayor número / Modernos
+- Karl Marx: La lucha de clases y la teoría del materialismo histórico / Modernos
+- Sócrates: La técnica de la mayéutica y el conocimiento de uno mismo / Antiguos
+- René Descartes: El escepticismo metódico y la famosa frase "Pienso, luego existo" / Modernos
+- Friedrich Nietzsche: La muerte de Dios y el superhombre / Modernos
+- Immanuel Kant: El imperativo categórico y la moralidad autónoma / Modernos
+

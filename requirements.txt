@@ -1,0 +1,63 @@
+# Debugging
+ipdb
+
+# Contenido Historias
+
+# Manejar Fotos
+Pillow
+numpy
+
+#scrapping
+bs4
+requests
+selenium
+
+# Pictures Download
+pyunsplash
+pixabay
+
+#Open AI
+openai
+
+#Finetunning
+pandas
+
+# Enviar Mensajes a Telegram
+python-telegram-bot
+
+# Dropbox
+dropbox
+
+# Youtube API
+google-api-python-client
+google-auth-oauthlib
+google-auth-httplib2
+oauth2client
+
+# Voice
+elevenlabs
+
+# Subtitulos
+whisper-timestamped
+
+# Editing
+moviepy
+pydub # Audio
+
+
+# Calendar - Managing
+# PDFs
+reportlab
+
+# archivos sin nombres malos
+unidecode
+
+
+
+
+# instalaciones extra
+
+# ffmpeg para trabajar con audio y videos, correr en consola
+# brew install ffmpeg
+
+# instalar en el ordenador las fuentes usadas
