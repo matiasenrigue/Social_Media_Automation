@@ -11,22 +11,22 @@ Check out the [YouTube demo](https://youtu.be/PpNS5vbUkyI) to see how the projec
 
 ### Management.py
 For managing the various influencers' profiles:
-    - Get topics for new videos
-    - Organize folders
-    - Bulk download pictures
+- Get topics for new videos
+- Organize folders
+- Bulk download pictures
 
 ### Mass_production.py
 For managing videos production of all the influencers and the same time:
-    - Produce videos in bulk
-    - Re-edit videos
-    - Approve videos before uploading
-    - Upload videos to YT on the background while respecting all limits
+- Produce videos in bulk
+- Re-edit videos
+- Approve videos before uploading
+- Upload videos to YT on the background while respecting all limits
 
 ### Videos.py
 In case you want more control and supervision (I don't use it):
-    - Edit video parts (script, images, narration)
-    - Choose thumbnails
-    - Approve/deny videos
+- Edit video parts (script, images, narration)
+- Choose thumbnails
+- Approve/deny videos
 
 
 ## Usage
