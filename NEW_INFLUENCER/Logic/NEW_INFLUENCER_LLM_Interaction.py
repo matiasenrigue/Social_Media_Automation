@@ -1,6 +1,29 @@
 import os
 from Logic.Videos.Script_LLM_Interaction import get_script_from_LLM, get_description_from_LLM, get_topics_for_videos_from_LLM
 
+"""
+This script is designed to facilitate the creation of content for the NEW_INFLUENCER's YouTube Shorts account. 
+It includes three primary functions that interact with a Language Learning Model (LLM) to generate scripts, descriptions, and topic ideas for videos.
+
+Functions:
+
+1. Get Script for NEW_INFLUENCER Videos:
+- Retrieves a structured script for a video based on the provided title and clean data.
+- It ensures the generated content follows a predefined format including hook, development, conclusion, title, thumbnail, footer, and keywords.
+
+2. Get SEO-Optimized Descriptions:
+- Generates a detailed and SEO-optimized description for the video.
+- Focuses on enhancing the video's searchability through strategic keyword inclusion.
+
+3. Get Topic Ideas for Future Videos:
+- Provides new topic ideas for future videos, organized by a specific coding structure.
+- Ensures the topics are relevant and do not repeat previously used themes.
+
+Usage:
+- Ensure the paths provided for video storage and clean data are correct.
+- Follow the structure and instructions within each function to maintain consistent and effective interaction with the LLM.
+"""
+
 
 def get_script_NEW_INFLUENCER(title: str, video_folder: os.path, clean_data_original_folder: os.path) -> None:
     """

@@ -2,7 +2,9 @@ import os
 from Influencers.MainClass import INFLUENCER
 from NEW_INFLUENCER.Logic.NEW_INFLUENCER_LLM_Interaction import get_script_NEW_INFLUENCER, get_description_NEW_INFLUENCER, get_topics_NEW_INFLUENCER
 
-
+"""
+Define here the characteristics of your influencer
+"""
 
 
 class Influencer_NEW_INFLUENCER(INFLUENCER):

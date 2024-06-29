@@ -11,7 +11,7 @@ from typing import List, Dict, Any, Tuple
 Script to obtain and correct subtitles from audios:
 - Generates subtitles using the OpenAI model
 - Verifies and corrects discrepancies between the original script and the generated subtitles
-- Makes specific phonetic corrections to improve pronunciation
+- Makes specific phonetic corrections to improve pronunciation for Spanish inlfuencers (writes text in Spanish phonetics)
 """
 
 

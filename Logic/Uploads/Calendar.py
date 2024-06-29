@@ -6,8 +6,24 @@ from typing import Optional
 
 
 """
-Scripts to manage content:
-- create and manage upload schedules
+This script manages the scheduling and updating of social media posts for influencers. 
+It includes functions for creating and maintaining schedules, finding the next available date, 
+and updating schedules based on file inputs.
+
+Functions:
+
+1. check_or_create_schedule:
+    - Ensures a 91-day schedule for an influencer is created or updated.
+    - Deletes past schedules and preserves existing ones.
+    - Creates a new schedule file for a new influencer if it does not exist.
+
+2. find_next_available_date:
+    - Finds the next available date in the schedule where the infleuncer can post a video
+    - Writes the next available date to a file for further processing.
+
+3. update_schedule_with_files:
+    - Updates the schedule with details from files (title.txt, youtube.txt, tiktok.txt).
+    - Marks a date as filled with video details once the video is uploaded.
 """
 
 

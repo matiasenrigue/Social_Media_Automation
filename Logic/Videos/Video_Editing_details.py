@@ -7,8 +7,10 @@ import time
 
 """
 Script to allow editing videos in specific parts
+Only useful if you are supervising content (I don't do it anymore)
 
-Idea: Mass production works at a crazy pace; this script is useful in case you want to review the produced content and have the option to correct only a specific part of the video
+Idea: Mass production works at a crazy pace; 
+    this script is useful in case you want to review the produced content and have the option to correct only a specific part of the video
 """
 
 

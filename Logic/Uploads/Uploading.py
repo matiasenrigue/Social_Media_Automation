@@ -14,11 +14,32 @@ from Logic.Uploads.Calendar import check_or_create_schedule, find_next_available
 from Logic.Uploads.Telegram_Messages import send_telegram
 
 
-
-
 """
-Functions to upload videos to Youtube
-- Youtube Parameters: JSON files stored in the folder (also for Barça accounts)
+This script manages the process of verifying, scheduling, and uploading videos for influencers. 
+It includes functions for verifying necessary files, uploading videos to YouTube, 
+and updating the schedule with details of uploaded videos.
+
+Functions:
+
+1. verify_files:
+    - Verifies the existence of necessary files before uploading a video.
+    - Prompts the user to correct any missing files and re-verifies until all required files are present.
+    - (Only useful if you are supervising content)
+
+2. upload_youtube:
+    - Checks if a video has already been uploaded to YouTube.
+    - Uploads the video if it hasn't been uploaded yet and returns the status.
+
+3. confirmation_message:
+    - Logs a confirmation message with details of the uploaded video, including title and upload date.
+
+4. post_one_video_multiple_times:
+    - Executes the process of uploading a video multiple times for an influencer.
+    - Manages folders in a specific state and updates the schedule accordingly.
+
+5. post_ONE_SINGLE_video:
+    - Executes the process of uploading a single video for an influencer.
+    - Manages folders in a specific state and updates the schedule accordingly.
 """
 
 

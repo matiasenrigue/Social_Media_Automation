@@ -1,5 +1,10 @@
 import os
 
+"""
+This script handles the retrieval of API keys from environment variables, 
+ensuring secure and convenient access to various external services. 
+"""
+
 # API key from OpenAI
 OPENAIKEY = os.environ.get("OPENAIKEY")
 

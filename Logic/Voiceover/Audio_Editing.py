@@ -7,9 +7,29 @@ from typing import Optional, Tuple
 
 
 """
-Script with functions to process recorded audios:
-- Edit audio (music, speed, volumes...)
-- Obtain Subtitles (And correct them)
+This script processes recorded audio files by editing their volume, speed, and adding background music. 
+It includes functions to adjust volume levels, combine audio segments, and save/load configurations 
+for consistent audio processing.
+
+Functions:
+
+1. adjust_volume_to_common_level:
+    - Ensures all audio files in the specified folder are at the same volume level.
+    - Saves the adjusted audio files with a prefix.
+
+2. combine_audios:
+    - Combines volume-adjusted audio files in the specified folder into a single MP3 file.
+    - Adds brief pauses between segments and a final pause.
+
+3. audio_editing:
+    - Edits the audio by adjusting volume, speed, and adding background music.
+    - Saves the audio with and without background music for further processing.
+
+4. save_configuration:
+    - Saves the audio configuration (song path, volume, voice increase) to a JSON file.
+
+5. load_configurations:
+    - Loads the audio configuration from a JSON file.
 """
 
 

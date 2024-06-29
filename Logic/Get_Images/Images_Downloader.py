@@ -1,34 +1,46 @@
-# Para descargar imagen
 import requests
 from requests.exceptions import HTTPError
 from PIL import Image
 from io import BytesIO
 import time
-
-# Manejar descargas
 import os
 from datetime import datetime
 import sys
 
-
-# API KEY
 from Logic.Tools import params
 
 
 import threading
 import time
 
-# Para manejar APIS
 from pyunsplash import PyUnsplash
 import pixabay.core
-
 from Logic.Tools.Shuffle_pics import sort_by_aspect
 
 
 
 """
-Script to download images based on a query:
+Script to download images based on a query using multiple APIs (Pexels and Unsplash).
+
+Functions:
+
+1. pexels_download_manager:
+    - Manages image downloads using multiple APIs (Pexels and Unsplash).
+    - Stores images in specific folders and calls a function to sort images by aspect.
+
+2. download_image:
+    - Downloads an image from a given URL and saves it to a specified folder.
+    - Handles HTTP errors and other exceptions during the download process.
+
+3. download_from_Pexels:
+    - Downloads images from the Pexels API based on a search query.
+    - Saves images in a specified folder.
+
+4. download_from_Unsplash:
+    - Downloads images from the Unsplash API based on a search query.
+    - Saves images in a specified folder.
 """
+
 
 def pexels_download_manager(query: str, download_folder: os.path, k: int) -> None:
     """

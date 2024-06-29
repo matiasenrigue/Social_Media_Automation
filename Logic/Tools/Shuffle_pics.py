@@ -7,6 +7,32 @@ import shutil
 
 
 
+"""
+This script provides utilities for managing and organizing image files within a specified folder. 
+It includes functions for converting Windows paths to WSL paths, sorting images by aspect ratio, 
+classifying images into subfolders based on orientation, and shuffling images in a folder.
+
+Functions:
+
+1. convert_windows_path_to_wsl:
+    - Converts a Windows path to a Linux path in WSL format.
+    - Ensures compatibility between Windows and WSL environments.
+
+2. sort_by_aspect:
+    - Sorts images from most vertical to most horizontal.
+    - Renames images based on a date prefix and their new order.
+    - Classifies sorted images into orientation-based subfolders.
+
+3. classify_images:
+    - Classifies images into "horizontal" or "vertical" subfolders based on their aspect ratio.
+    - Handles images that are square by copying them to both subfolders.
+
+4. random_order:
+    - Randomly shuffles the order of image files in a folder.
+    - Renames images with a new date-based prefix to reflect their new order.
+"""
+
+
 
 def convert_windows_path_to_wsl(windows_path: str) -> str:
     """

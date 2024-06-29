@@ -3,13 +3,27 @@ from Logic.Tools.Folders import select_multiple_folders, update_folder_status, s
 import os
 import time
 
+
+
+"""
+This script is designed to automate the approval and upload processes for influencer videos, 
+    ensuring efficient and streamlined workflows. It includes three primary functions:
+
+Bulk Approve Videos:
+- This function approves multiple videos in bulk, either forcefully or based on set criteria.
+- It ensures that videos meeting the required characteristics are approved efficiently.
+- (Use only if you don't want to supervise content)
+
+Upload YouTube Videos in Bulk:
+- This function handles the detailed logic for uploading multiple YouTube videos, 
+    including handling API limits and introducing random delays to avoid detection as spam.
+"""
+
 # Configure logging
 import logging
 logging.basicConfig(filename='/Users/matias/code/SocialMedia/cron.log',
                     level=logging.INFO,
                     format='%(asctime)s:%(levelname)s:%(message)s')
-
-
 
 
 def bulk_approve(forced: str = "") -> None:

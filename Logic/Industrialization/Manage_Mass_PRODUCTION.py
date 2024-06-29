@@ -15,13 +15,15 @@ from Logic.Videos.Thumbnails_Shorts import industrial_thumbnails
 
 
 """
-Script with different Workflows:
+This script is designed to automate video production workflows for influencers, encompassing tasks from initial title generation to final video editing and uploading. It includes two primary workflows:
 
-    - Suelto: From Title to Video: Give a title and the bot generates everything
-        --> Use when the prompt is optimized and works well 99/100 times without supervision
+From Title to Video:
+- This workflow generates complete videos from a given title with minimal supervision.
+- It is ideal when the title prompt is well-optimized and requires minimal manual intervention.
 
-    - Libre: The bot generates titles and uploads videos without supervision
-        --> In the future, create code that works entirely in the cloud
+Conservative Re-editing:
+- This workflow focuses on re-editing videos that have been sent back for corrections.
+- It is designed to handle videos at an advanced stage, ensuring they meet quality standards before final publishing.
 """
 
 
