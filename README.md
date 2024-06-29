@@ -1,44 +1,79 @@
-# SocialMediaAutomation
+# Social Media Automation
 
-Public version of my private repo Social_Media_Automation
+⭐ **Portfolio Project**: This repository showcases my skills in Python development through a comprehensive package for automating social media content creation and management.
 
-The purpose of this repo is to demonstrate my Python development skills through a comprehensive package, showcasing its structure.
+## Demo
+Check out the [YouTube demo](https://youtu.be/PpNS5vbUkyI) to see how the project works.
 
-## Demo:
+## Features
 
-In this [YouTube link](https://youtu.be/PpNS5vbUkyI), I show how my project works.
+⚙️ My code handles various influencer profiles, generating ideas, producing videos, and posting them. It also organizes folder structures and posting schedules. The system operates autonomously, and I receive alerts via Telegram in case of any issues.
+
+### Management.py
+For managing the various influencers' profiles:
+    - Get topics for new videos
+    - Organize folders
+    - Bulk download pictures
+
+### Mass_production.py
+For managing videos production of all the influencers and the same time:
+    - Produce videos in bulk
+    - Re-edit videos
+    - Approve videos before uploading
+    - Upload videos to YT on the background while respecting all limits
+
+### Videos.py
+In case you want more control and supervision (I don't use it):
+    - Edit video parts (script, images, narration)
+    - Choose thumbnails
+    - Approve/deny videos
+
 
 ## Usage
+This project provides a template for building a mass production system for AI-generated influencer videos. Note that specific components such as prompts, editing styles, and thumbnail styles are hidden to preserve uniqueness. Tutorials for substituting these components:
+- Prompt engineering for LLM
+- MoviePy for video editing
+- PIL for thumbnail creation
 
-**Management.py**: For managing the various influencers' profiles:
-- Getting topics for new videos
-- Organizing folders
-- Bulk downloading pictures
+## Installation
 
-**Mass_production.py**:
-- Produce videos in bulk from the received topics
-- Re-edit videos in bulk if you are supervising the produced videos and making adjustments
-- Approve videos without supervision before uploading (I don't supervise the videos before uploading)
+Clone the repository:
+```sh
+git clone https://github.com/matiasenrigue/Social_Media_Automation.git
+cd Social_Media_Automation
+```
 
-**Videos.py**: In case you want more control and supervision (I don't use it):
-- Edit parts of the video (script, images, narration, etc.)
-- Choose thumbnails
-- Approve/deny videos to have more control over what gets posted
+Install the required dependencies:
+```sh
+pip install -r requirements.txt
+```
 
-### PS: Before using it:
+## Running the Scripts
 
-The code can be used to develop a comprehensive mass production system for AI influencer videos. However, as I worked hard for months on this project, I hid the following components to ensure the uniqueness of my videos is not easily replicated:
-- Prompts for my videos
-- Editing style of my videos
-- Thumbnail style of my videos
+1. **Management.py**: Use for managing influencer profiles.
+    ```sh
+    python Management.py
+    ```
 
-These three components can be easily substituted by following these tutorials:
-- Prompt engineering for LLM 
-- MoviePy for editing video style
-- PIL for thumbnail style of the pictures
+2. **Mass_production.py**: Use for bulk video production.
+    ```sh
+    python Mass_production.py
+    ```
 
-My project provides the template on which to build such automation:
-- Manage folder structure
-- Manage video production logic
-- Etc.
+3. **Videos.py**: Use for more controlled video editing.
+    ```sh
+    python Videos.py
+    ```
+
+## Folder Structure
+- `Logic/`: Contains the core logic for automation.
+- `NEW_INFLUENCER/`: Example folder for managing a new influencer.
+
+## License
+This project is licensed under the MIT License.
+
+## Contact
+For any questions or feedback, please contact me at [matienrigue1@gmail.com](mailto:matienrigue1@gmail.com).
+
+
 
